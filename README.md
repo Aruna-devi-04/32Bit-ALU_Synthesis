@@ -38,8 +38,10 @@ used.
 #### Synthesis RTL Schematic :
 
 #### Area report:
+![Screenshot 2024-11-16 170205](https://github.com/user-attachments/assets/3f76c52d-ac95-4463-8fb6-c9b6ea8062d0)
 
 #### Power Report:
+![Screenshot 2024-11-16 170218](https://github.com/user-attachments/assets/95869fe2-8be4-4b8e-889f-87c76f4dcb95)
 
 #### Result: 
 
